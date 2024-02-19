@@ -1,0 +1,9 @@
+POST http://localhost:8088/tijiancms/doctor/getDoctorByCodeByPass
+Content-Type: application/json
+
+{
+  "docCode" : "zzj",
+  "password" : "123"
+}
+
+###
